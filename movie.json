@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Mae Krala Plerng",
+        "imdb":9.8,
+        "date":"2022",
+        "sposter":"img/Mae Krala plerng.jpg",
+        "bposter":"img/Mae Kralaplerng.jpg",
+        "genre":"Scared",
+        "type":"series",
+        "url":"Mae Krala plerng.html",
+        "trailer":"Mae krala plerngailer tr.mp4",
+        "low":"video/Mae Krala plerng 480h.mp4",
+        "medium":"video/Mae krala plerng 720ph.p4",
+        "high":"video/Mae krala plerng 1080ph.mp4"
+        
+    },{
+
+        
+        "name": "Mae Krala Plerng",
+        "imdb":9.8,
+        "date":"2022",
+        "sposter":"img/Mae Krala plerng.jpg",
+        "bposter":"img/Mae Kralaplerng.jpg",
+        "genre":"Scared",
+        "type":"series",
+        "url":"Mae Krala plerng.html",
+        "trailer":"Mae krala plerngailer tr.mp4",
+        "low":"video/Mae Krala plerng 480h.mp4",
+        "medium":"video/Mae krala plerng 720ph.p4",
+        "high":"video/Mae krala plerng 1080ph.mp4"
+       
+    }
+
+
+]
